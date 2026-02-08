@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-02-09T00:29:31.062867",
+  "search_criteria": "Mac Mini, Mini-PC, NUC för OpenClaw",
+  "total_results": 4,
+  "results": [
+    {
+      "title": "Beelink Mini PC Ryzen 7 32GB 1TB",
+      "price": "5200 kr",
+      "url": "https://blocket.se/annons/4",
+      "description": "Kraftfull Beelink med Ryzen 7, 32GB RAM, 1TB NVMe SSD",
+      "analysis": {
+        "score": 66,
+        "breakdown": {
+          "cpu": 28,
+          "ram": 25,
+          "storage": 5,
+          "price": 0,
+          "power": 8
+        },
+        "details": [
+          "Ryzen 7/9: Mycket bra",
+          "32GB RAM: Utmärkt",
+          "32GB SSD: Minimum",
+          "Pris ej specificerat",
+          "Mini-PC: Strömsnål (15-65W)"
+        ],
+        "recommendation": "🟡 BRA DEAL - Värt att överväga"
+      }
+    },
+    {
+      "title": "Mac Mini M2 16GB 512GB SSD",
+      "price": "7500 kr",
+      "location": "Göteborg",
+      "url": "https://blocket.se/annons/2",
+      "description": "Nyare Mac Mini M2 med 16GB RAM och 512GB SSD. Perfekt för arbete.",
+      "analysis": {
+        "score": 65,
+        "breakdown": {
+          "cpu": 30,
+          "ram": 20,
+          "storage": 5,
+          "price": 0,
+          "power": 10
+        },
+        "details": [
+          "M2-chip: Utmärkt för AI",
+          "16GB RAM: Mycket bra",
+          "16GB SSD: Minimum",
+          "Pris ej specificerat",
+          "Apple Silicon: Extremt strömsnål (6-20W)"
+        ],
+        "recommendation": "🟡 BRA DEAL - Värt att överväga"
+      }
+    },
+    {
+      "title": "Mac Mini M1 8GB 256GB SSD",
+      "price": "4500 kr",
+      "location": "Stockholm",
+      "url": "https://blocket.se/annons/1",
+      "description": "Säljer min Mac Mini M1. 8GB RAM, 256GB SSD. Mycket bra skick.",
+      "analysis": {
+        "score": 55,
+        "breakdown": {
+          "cpu": 28,
+          "ram": 12,
+          "storage": 5,
+          "price": 0,
+          "power": 10
+        },
+        "details": [
+          "M1-chip: Mycket bra för AI",
+          "8GB RAM: Minimum, uppgradera rekommenderas",
+          "8GB SSD: Minimum",
+          "Pris ej specificerat",
+          "Apple Silicon: Extremt strömsnål (6-20W)"
+        ],
+        "recommendation": "🟠 OK - Men kolla specs noggrant"
+      }
+    },
+    {
+      "title": "Intel NUC i5 16GB 500GB SSD",
+      "price": "2800 kr",
+      "url": "https://blocket.se/annons/3",
+      "description": "Intel NUC med i5 processor, 16GB RAM, 500GB SSD. Bra skick.",
+      "analysis": {
+        "score": 53,
+        "breakdown": {
+          "cpu": 20,
+          "ram": 20,
+          "storage": 5,
+          "price": 0,
+          "power": 8
+        },
+        "details": [
+          "Intel i5: Acceptabelt",
+          "16GB RAM: Mycket bra",
+          "16GB SSD: Minimum",
+          "Pris ej specificerat",
+          "Mini-PC: Strömsnål (15-65W)"
+        ],
+        "recommendation": "🟠 OK - Men kolla specs noggrant"
+      }
+    }
+  ]
+}

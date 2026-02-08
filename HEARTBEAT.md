@@ -2,6 +2,18 @@
 
 This file defines what Klaus checks during heartbeat polls.
 
+## 🎯 AKTIVT PROJEKT: Dokumentera OpenClaw-resan
+
+**Status:** Väntar på godkännande från Adrian
+**Mål:** Bli först med att dokumentera OpenClaw-resan publikt
+
+### Nuvarande Task: 1️⃣ Sätta upp Content-Pipeline
+- [ ] Skapa sociala medier-konton
+- [ ] Förbereda första videon
+- [ ] Väntar på att Adrian filmar första klippet
+
+---
+
 ## Kontext-cykeln (Var 30:e minut)
 
 ### 1. Läs Aktuell Uppgift
